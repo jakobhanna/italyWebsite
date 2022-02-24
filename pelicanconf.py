@@ -1,6 +1,8 @@
 AUTHOR = 'moriati'
-SITENAME = 'OhneTitel'
+SITENAME = 'Italien'
+SITESUBTITLE = 'Wissen macht B'
 SITEURL = ''
+THEME = 'simple'
 
 PATH = 'content'
 
@@ -22,8 +24,7 @@ LINKS = (('Pelican', 'https://getpelican.com/'),
          ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('github', 'http://github.com/jakobhanna/'))
 
 DEFAULT_PAGINATION = False
 
