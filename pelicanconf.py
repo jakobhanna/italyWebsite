@@ -2,9 +2,11 @@ AUTHOR = 'moriati'
 SITENAME = 'Italien'
 SITESUBTITLE = 'Wissen macht B'
 SITEURL = ''
-THEME = 'simple'
+THEME = 'solar'
 
 PATH = 'content'
+PLUGIN_PATHS = ["plugins", "plugin/solar-plugins/"]
+PLUGINS = ["addressable_paragraphs", "assets", "dither", "page_metadata", "related_posts", "representative_image", "thumbnailer"]
 
 TIMEZONE = 'Europe/Rome'
 
