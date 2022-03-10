@@ -6,7 +6,7 @@ THEME = 'solar'
 
 PATH = 'content'
 PLUGIN_PATHS = ["plugins", "plugin/solar-plugins/"]
-PLUGINS = ["addressable_paragraphs", "assets", "dither", "page_metadata", "related_posts", "representative_image", "thumbnailer"]
+PLUGINS = ["addressable_paragraphs", "assets", "page_metadata", "related_posts", "representative_image"]
 
 TIMEZONE = 'Europe/Rome'
 
