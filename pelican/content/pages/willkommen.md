@@ -14,6 +14,6 @@ Wo wir uns auch gefunden haben, träumen wollen wir nur noch hier. Seien es die 
 
 Mein kleiner Traum von einem digitalen Kalender hat sich hier erfüllt. Ich hoffe daneben können wir unsere Gedanken zu den schönen Orten in Italien sammeln, nützliches hier finden und nicht jedes Mal von neuem anfangen. So ist doch jeder Anfang schwer, und die zweite Hälfte des Himmels wartet ewig auf uns.
 
-**Zugangsdaten zum Kalender sind (alles kleingeschrieben) der Wohort von A und U und als Passwort die Stadt zu der sich \*CUSLE\* zugehörig fühlen.**
+**Zugangsdaten zum Kalender sind (alles kleingeschrieben) der Wohnort von A und U und als Passwort die Stadt zu der sich \*CUSLE\* zugehörig fühlen (d).**
 
-Ich hoffe ihr könnt auch zu dieser Seite beitrage, indem ihr im Kalender eintragt, wann ihr nach Italien beziwhungsweise Soriano oder Capodimonte wollte oder eine kleine Notiz hinzufügt (dazu könnt ihr einfach eine Wikiseite auf meiner [Githubseite](https://github.com/jakobhanna/italyWebsite/wiki) erstellen).
+Ich hoffe ihr könnt auch zu dieser Seite beitrage, indem ihr im Kalender eintragt, wann ihr nach Italien beziehungsweise Soriano oder Capodimonte wollte oder eine kleine Notiz hinzufügt (dazu könnt ihr einfach eine Wikiseite auf meiner [Githubseite](https://github.com/jakobhanna/italyWebsite/wiki) erstellen).

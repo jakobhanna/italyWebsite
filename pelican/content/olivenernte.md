@@ -14,6 +14,7 @@ Image: /images/fertig.png
 Starker Schnitt, mit der Motorsäge werden dicke Äste und ähnliches beschnitten (alle paar Jahre)
 
 Leichter Schnitt, es werden nur die neuen Trieben abgeschnitten
+
 ## Grundprinzip
 Das Innere vom Baum wird beschnitten, sodass dort keine Äste und Triebe mehr wachsen
 

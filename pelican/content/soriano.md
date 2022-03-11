@@ -10,7 +10,7 @@ Image: /images/sorD.png
 
 ![Picture]({static}/images/sorD.png)
 
-Direkt unter dem Kastell von Soriano liegt eine zauberhaft Ort.
+Direkt unter dem Kastell von Soriano liegt ein zauberhafter Ort.
 
 <div class="wrap-element">
 <iframe class="wrapped-iframe" src="https://www.openstreetmap.org/export/embed.html?bbox=12.233606278896334%2C42.419031356425904%2C12.235601842403414%2C42.42035800316844&amp;layer=mapnik&amp;marker=42.41969468330571%2C12.234604060649872" style="border: 1px solid black"></iframe>

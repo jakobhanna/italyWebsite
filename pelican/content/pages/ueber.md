@@ -7,7 +7,7 @@ Slug: ueber
 Author: Jakob Janatka
 Summary: Allgemein Erklärung zur Funktion der Seite und den Orten in Italien
 
-Diese kleine Webseite soll uns in Italien helfen, damit wir Termine finden können und wissen was an den schönen Orten so passiert. Es gibt eine Kalenderfunktion und zu den verschiedene Orten Notizen, Erklärungen und Anleitungen. 
+Diese kleine Webseite soll uns in Italien helfen, damit wir Termine finden können und wissen was an den schönen Orten so passiert. Es gibt eine Kalenderfunktion und Notizen zu den verschiedene Orten, Erklärungen und Anleitungen. 
 
 Hoffentlich ist das meiste intuitiv – sonst fragt mich gerne.
 

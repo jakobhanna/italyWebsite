@@ -21,7 +21,8 @@ wer weiss der kreis der sich schließt vereint vielleicht nur kurze zeit," Beatf
 </div>
 <small><a href="https://www.openstreetmap.org/?mlat=42.5540&amp;mlon=11.8812#map=16/42.5540/11.8812&amp;layers=N">Größere Karte anzeigen</a></small>
 
+**Capodimonte ist der einzige Hafen, der tief genug fürs Boot ist, alle anderen sind zu flach!**
+
 <div class="wrap-element">
 <iframe class="wrapped-iframe" src="https://webapp.navionics.com/?lang=de#boating@12&key=_jvbG%7ByvgA" style="border: 1px solid black"></iframe>
 </div> 
-Capodimonte ist der einzige Hafen, der tief genug fürs Boot ist, alle anderen sind zu flach!
